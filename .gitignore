@@ -46,6 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+*.class
 .class
 
 # Mobile Tools for Java (J2ME)
