@@ -3,12 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/MarvelProject/src/epsi/mtp/i4/views/PromptWindow.java</file>
-            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/MarvelProject/src/epsi/mtp/i4/models/Character.java</file>
-            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/MarvelProject/src/epsi/mtp/i4/views/HomeWindow.java</file>
-            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/MarvelProject/src/epsi/mtp/i4/engine/GameEngine.java</file>
-            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/MarvelProject/src/epsi/mtp/i4/data/knowledge_base.csv</file>
-            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/MarvelProject/src/epsi/mtp/i4/models/Criteria.java</file>
+            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/HeroesGuesser/src/epsi/mtp/i4/models/Criteria.java</file>
+            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/HeroesGuesser/src/epsi/mtp/i4/controller/CSVController.java</file>
+            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/HeroesGuesser/src/epsi/mtp/i4/data/knowledge_base.csv</file>
+            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/HeroesGuesser/src/epsi/mtp/i4/models/Question.java</file>
+            <file>file:/C:/Users/Phantom/Documents/NetBeansProjects/HeroesGuesser/src/epsi/mtp/i4/models/Character.java</file>
         </group>
     </open-files>
 </project-private>

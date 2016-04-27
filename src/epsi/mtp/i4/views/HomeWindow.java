@@ -5,6 +5,7 @@
  */
 package epsi.mtp.i4.views;
 
+import epsi.mtp.i4.controller.CSVController;
 import javax.swing.SwingConstants;
 
 /**
@@ -21,6 +22,7 @@ public class HomeWindow extends javax.swing.JFrame {
         this.pack();
         this.setLocationRelativeTo(null);
         this.setVisible(true);
+        CSVController c = new CSVController();
     }
 
     /**
